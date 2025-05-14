@@ -4,3 +4,6 @@ numpy
 plotly
 scipy
 openpyxl
+streamlit-aggrid
+xlrd
+Pillow
